@@ -1,7 +1,7 @@
 # Lahore_ALPR
 A raw POC - Automatic License Plate Recognition for Lahore
 
-The code is pretty rough - feel free to change is request a merge
+The code is pretty rough - feel free to change and request a merge
 
 **plate_maker.ipynb** - To make random plates and place them on random background 
 
