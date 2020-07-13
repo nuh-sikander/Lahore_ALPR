@@ -8,3 +8,9 @@ The code is pretty rough - feel free to change and request a merge
 **char_maker.ipynb** - To create classes for Charachters/Number out Classification Model
 
 **char_recog_train.ipynb** - Character Classification Model Trainer
+
+### You can download the pretrained weights from here;
+
+Plate Detection - https://drive.google.com/file/d/1F52MRiFOdKsTCsboXLakMdrPAsNM9fbC/view?usp=sharing
+
+Character Recognition - https://drive.google.com/file/d/1p3VE0MTVzP5KaxxqOMrhuxQE53JsbBQQ/view?usp=sharing
