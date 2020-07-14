@@ -20,4 +20,6 @@ Plate Detection - https://drive.google.com/file/d/1F52MRiFOdKsTCsboXLakMdrPAsNM9
 Character Recognition - https://drive.google.com/file/d/1p3VE0MTVzP5KaxxqOMrhuxQE53JsbBQQ/view?usp=sharing
 
 # Article Link
-A raw POC - Automatic License Plate Recognition for Lahore
+A raw POC - Automatic License Plate Recognition for Lahore | https://www.linkedin.com/pulse/lahore-alpr-automatic-license-plate-recognition-nooh-bin-sikander
+
+![Output](https://raw.githubusercontent.com/nuh-sikander/Lahore_ALPR/master/output/out.png) 
